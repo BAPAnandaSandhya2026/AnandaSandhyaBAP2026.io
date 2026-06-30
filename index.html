@@ -268,12 +268,13 @@
     #videos{background:var(--maroon-dark);position:relative;}
     /* Show real cursor inside the videos / highlights section */
     #videos,#videos *{cursor:auto !important;}
-    #videos a,#videos button,#videos .video-card,#videos .play-btn{cursor:pointer !important;}
+    #videos a,#videos button,#videos .video-card,#videos .play-btn,#final-videos a,#final-videos .video-card,#final-videos .play-btn{cursor:pointer !important;}
     body:has(#videos:hover) .cursor,
     body:has(#videos:hover) .cursor-ring{opacity:0;}
     #videos::before{content:'';position:absolute;inset:0;pointer-events:none;z-index:0;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E");opacity:.35;}
     #videos .container{position:relative;z-index:1;}
     #videos .section-header h2{color:var(--gold-light);}
+    #final-videos .section-header h2{color:var(--gold-light);}
     #videos .section-tag{color:var(--gold);}
     #videos .section-rule::before,#videos .section-rule::after{background:var(--gold);opacity:.4;}
     #videos .section-rule span{color:var(--gold);}
@@ -706,6 +707,8 @@
       .sponsor-box{width:130px;height:68px;}
       .sponsor-box.large{width:150px;height:78px;}
       nav .nav-brand{font-size:.72rem;}
+      .video-info h3{font-size:1rem;}
+      .video-info p{font-size:.88rem;}
     }
   </style>
 </head>
@@ -719,6 +722,7 @@
     <li><a href="#cinema" class="nav-drawer-link">Cinema</a></li>
     <li><a href="#program" class="nav-drawer-link">Program</a></li>
     <li><a href="#videos" class="nav-drawer-link">Performances</a></li>
+    <li><a href="#final-videos" class="nav-drawer-link">Event Videos</a></li>
     <li><a href="#photo-gallery" class="nav-drawer-link">Gallery</a></li>
     <li><a href="#sponsors" class="nav-drawer-link">Thanks</a></li>
     <li><a href="#contact" class="nav-drawer-link">Contact</a></li>
@@ -737,6 +741,7 @@
       <li><a href="#cinema">Cinema</a></li>
       <li><a href="#program">Program</a></li>
       <li><a href="#videos">Performances</a></li>
+      <li><a href="#final-videos">Event Videos</a></li>
       <li><a href="#photo-gallery">Gallery</a></li>
       <li><a href="#sponsors">Supporters</a></li>
       <li><a href="#contact">Contact</a></li>
@@ -2216,6 +2221,105 @@ Everyone rises up in rebellion against the tyrant king and smashes his statue to
   </section>
 
   <div class="film-strip" aria-hidden="true" style="transform:scaleX(-1);"><div class="film-strip-inner" id="filmStrip2"></div></div>
+
+  <!-- FINAL EVENT VIDEOS -->
+  <section id="final-videos" style="position:relative;overflow:hidden;background:linear-gradient(160deg,#2a0a12 0%,var(--maroon-dark) 55%,#3a1206 100%);background-image:radial-gradient(circle 1px at 24px 24px, rgba(232,168,0,.12) 100%, transparent),linear-gradient(160deg,#2a0a12 0%,var(--maroon-dark) 55%,#3a1206 100%);background-size:30px 30px, 100% 100%;">
+    <div class="container">
+      <div class="section-header reveal">
+        <span class="section-tag">Relive the Evening</span>
+        <h2>Final Event Videos</h2>
+        <div class="section-rule"><span>✦</span></div>
+        <p style="max-width:640px;margin:16px auto 0;padding:0 12px;color:#e8d4c0;">The complete, edited videos from আনন্দ সন্ধ্যা — relive every performance from June 13th.</p>
+      </div>
+      <div class="video-grid stagger">
+
+        <!-- Final Video 1 -->
+        <div class="video-card">
+          <a href="https://drive.google.com/file/d/1rJHvd9bbPQbTeC6ofBdI8yAF32sxWpwe/view?usp=sharing" target="_blank" rel="noopener" class="video-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;text-decoration:none;background-image:linear-gradient(135deg,rgba(0,0,0,.15),rgba(0,0,0,.35)),url('IntroSpeech.png');background-size:cover;background-position:center;">
+            <span class="play-btn">▶</span>
+            <span class="video-thumb-label"></span>
+          </a>
+          <div class="video-info">
+            <h3>Intro Speech</h3>
+            <p>The evening begins with a welcoming address that introduces the theme and spirit of Ananda Sandhya, inviting everyone to enjoy a memorable celebration filled with music, performances, and togetherness.</p>
+          </div>
+        </div>
+
+        <!-- Final Video 2 -->
+        <div class="video-card">
+          <a href="https://drive.google.com/file/d/10KyjRRDl_P53_g3HVf60pmz_jK9V7aGY/view?usp=sharing" target="_blank" rel="noopener" class="video-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;text-decoration:none;background-image:linear-gradient(135deg,rgba(0,0,0,.15),rgba(0,0,0,.35)),url('Musical.png');background-size:cover;background-position:center;">
+            <span class="play-btn">▶</span>
+            <span class="video-thumb-label"></span>
+          </a>
+          <div class="video-info">
+            <h3>Musical Program - GeetiAlekhyo "Ati Uttam"</h3>
+            <p>Through music, narration, and dramatic presentation, GeetiAlekhyo "Ati Uttam" revisited the unforgettable charm and enduring influence of Uttam Kumar, delighting audiences with a nostalgic tribute.</p>
+          </div>
+        </div>
+
+        <!-- Final Video 3 -->
+        <div class="video-card">
+          <a href="https://drive.google.com/file/d/1lmFO5tzwfGSeiljDHpgpzKbuugKceled/view?usp=sharing" target="_blank" rel="noopener" class="video-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;text-decoration:none;background-image:linear-gradient(135deg,rgba(0,0,0,.15),rgba(0,0,0,.35)),url('Instrumental.png');background-size:cover;background-position:center;">
+            <span class="play-btn">▶</span>
+            <span class="video-thumb-label"></span>
+          </a>
+          <div class="video-info">
+            <h3>Kids Instrumental - Rabindrasangeet</h3>
+            <p>The young performers showcased their musical talents through an instrumental presentation of Rabindrasangeet, bringing fresh energy and charm to the timeless melodies of Rabindranath Tagore.</p>
+          </div>
+        </div>
+
+        <!-- Final Video 4 -->
+        <div class="video-card">
+          <a href="https://drive.google.com/file/d/1WQLNz8xdGiPe2tlAXRkPiJFX33xCYVaQ/view?usp=sharing" target="_blank" rel="noopener" class="video-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;text-decoration:none;background-image:linear-gradient(135deg,rgba(0,0,0,.15),rgba(0,0,0,.35)),url('ShishuNatok.png');background-size:cover;background-position:center;">
+            <span class="play-btn">▶</span>
+            <span class="video-thumb-label"></span>
+          </a>
+          <div class="video-info">
+            <h3>Kids Natok</h3>
+            <p>Filled with energy and charm, the Kids Natok brought smiles to the audience as the young performers skillfully brought their characters and story to life.</p>
+          </div>
+        </div>
+
+        <!-- Final Video 5 -->
+        <div class="video-card">
+          <a href="https://drive.google.com/file/d/1r9WftrQyOJt4e5qePFN8US8YjqB_dN_t/view?usp=sharing" target="_blank" rel="noopener" class="video-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;text-decoration:none;background-image:linear-gradient(135deg,rgba(0,0,0,.15),rgba(0,0,0,.35)),url('SwatiDance.png');background-size:cover;background-position:center;">
+            <span class="play-btn">▶</span>
+            <span class="video-thumb-label"></span>
+          </a>
+          <div class="video-info">
+            <h3>Dance Program 1 — Rituparnotsob - Celebrating the Legend</h3>
+            <p>This dance presentation beautifully reflected the spirit and influence of Rituparno Ghosh, weaving together emotion, storytelling, and artistic expression in a heartfelt tribute.</p>
+          </div>
+        </div>
+
+        <!-- Final Video 6 -->
+        <div class="video-card">
+          <a href="https://drive.google.com/file/d/1d0rzuopaQtaJDYYTKP7O5coY-GP9IUWD/view?usp=sharing" target="_blank" rel="noopener" class="video-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;text-decoration:none;background-image:linear-gradient(135deg,rgba(0,0,0,.15),rgba(0,0,0,.35)),url('NandiniDance.png');background-size:cover;background-position:center;">
+            <span class="play-btn">▶</span>
+            <span class="video-thumb-label"></span>
+          </a>
+          <div class="video-info">
+            <h3>Dance Program 2 — Bhab - Tarongo</h3>
+            <p>Bhab-Tarongo captivated the audience with a graceful dance performance that explored the waves of human emotions through expressive movement, rhythm, and storytelling.</p>
+          </div>
+        </div>
+
+        <!-- Final Video 7 -->
+        <div class="video-card">
+          <a href="https://drive.google.com/file/d/YOUR_FILE_ID_7/view" target="_blank" rel="noopener" class="video-thumb" style="position:relative;display:flex;align-items:center;justify-content:center;text-decoration:none;background:linear-gradient(135deg,rgba(176,30,30,.5),rgba(245,168,0,.35));">
+            <span class="play-btn">▶</span>
+            <span class="video-thumb-label"></span>
+          </a>
+          <div class="video-info">
+            <h3>BAP Closing Ceremony and Song</h3>
+            <p>Bringing Ananda Sandhya to a memorable close, the final song reflected the warmth, joy, and togetherness that defined the evening's celebrations.</p>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
 
   <!-- PHOTO GALLERY -->
   <section id="photo-gallery">

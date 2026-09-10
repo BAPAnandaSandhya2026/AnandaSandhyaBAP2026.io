@@ -15,7 +15,8 @@ https://bapanandasandhya2026.github.io/AnandaSandhyaBAP2026.io/
 
 ### Homepage
 
-![Homepage Screenshot](images/homepage.png)
+![Homepage Screenshot](<img width="1902" height="1191" alt="AS Homepage" src="https://github.com/user-attachments/assets/f1955f34-9955-4acf-bcd0-07c6e8ab7602" />
+)
 
 *Ananda Sandhya 2026 homepage.*
 

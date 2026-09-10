@@ -1,6 +1,6 @@
 # Ananda Sandhya 2026 — Official Event Website
 
-<img width="500" alt="Ananda Sandhya 2026 Banner" src="https://github.com/user-attachments/assets/d413a226-16fa-474e-99b4-d8b09531eb2a">
+<img width="600" alt="Ananda Sandhya 2026 Banner" src="https://github.com/user-attachments/assets/d413a226-16fa-474e-99b4-d8b09531eb2a">
 
 > **An official digital experience created for Ananda Sandhya 2026 by the Bengali Association of Pittsburgh (BAP).**
 

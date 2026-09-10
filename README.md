@@ -137,28 +137,6 @@ The website was developed using:
 
 ---
 
-## Project Structure
-
-```text
-AnandaSandhyaBAP2026.io/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── images/
-│   ├── website-banner.png
-│   ├── homepage.png
-│   ├── program.png
-│   ├── videos.png
-│   ├── gallery.png
-│   └── video-thumbnail.png
-│
-└── README.md
-```
-
----
-
 ## Design & Development
 
 The website was designed with the idea of combining traditional Bengali culture with a modern digital experience.

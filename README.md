@@ -39,8 +39,6 @@ https://bapanandasandhya2026.github.io/AnandaSandhyaBAP2026.io/
 
 *Gallery section designed to relive memories from the event.*
 
-> **Tip:** Replace the image paths above with screenshots from your actual website. You can create an `images` folder in the repository to keep all README images organized.
-
 ---
 
 ## Website Demo

@@ -167,7 +167,7 @@ The website is designed to provide an accessible experience across:
 
 ### Mobile Preview
 
-![Mobile Website Screenshot](images/mobile.png)
+<img width="498" height="1024" alt="AS Phone" src="https://github.com/user-attachments/assets/5852273a-5320-4efa-b5df-f2fb4624a724" />
 
 ---
 

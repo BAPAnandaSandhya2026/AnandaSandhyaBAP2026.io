@@ -46,7 +46,7 @@ https://bapanandasandhya2026.github.io/AnandaSandhyaBAP2026.io/
 ### Full Website Walkthrough
 
 
-[![Ananda Sandhya 2026 Website Demo]](https://youtu.be/ir1j3R49XSE)
+[Ananda Sandhya 2026 Website Demo](https://youtu.be/ir1j3R49XSE)
 
 
 **Video:** *Ananda Sandhya 2026 Website Walkthrough*

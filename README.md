@@ -1,4 +1,3 @@
-<img width="1920" height="1200" alt="AS Homepage" src="https://github.com/user-attachments/assets/20f79098-5db1-4be9-9d72-a6761655cc95" />
 # Ananda Sandhya 2026 — Official Event Website
 
 <img width="600" alt="Ananda Sandhya 2026 Banner" src="https://github.com/user-attachments/assets/d413a226-16fa-474e-99b4-d8b09531eb2a">
@@ -16,10 +15,10 @@ https://bapanandasandhya2026.github.io/AnandaSandhyaBAP2026.io/
 
 ### Homepage
 
-![Uploading AS Homepage.png…]()
-
+<img width="800" alt="AS Homepage" src="https://github.com/user-attachments/assets/cd674556-1957-4bcb-8e3b-5fc73ded5b4c" />
 
 *Ananda Sandhya 2026 homepage.*
+
 
 ### Program & Performances
 

@@ -171,24 +171,6 @@ The website is designed to provide an accessible experience across:
 
 ---
 
-## Event Media
-
-The website incorporates multimedia from Ananda Sandhya 2026, including:
-
-**Photos**
-
-> Add photos here.
-
-**Videos**
-
-> Add performance recordings & highlights here.
-
-**Behind the Scenes**
-
-> Add rehearsal and backstage photography&videos here.
-
----
-
 ## Credits
 
 ### Website Design & Development

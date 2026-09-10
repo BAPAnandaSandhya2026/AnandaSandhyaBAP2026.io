@@ -22,19 +22,20 @@ https://bapanandasandhya2026.github.io/AnandaSandhyaBAP2026.io/
 
 ### Program & Performances
 
-![Program Screenshot](images/program.png)
+<img width="800" alt="AS Performances" src="https://github.com/user-attachments/assets/b3873d46-960c-4199-a06d-fb76a31fa007" />
 
 *Interactive program section to inform about the evening's performances.*
 
 ### Event Videos
 
-![Event Videos Screenshot](images/videos.png)
+<img width="800" alt="AS Highlights " src="https://github.com/user-attachments/assets/61a86089-d792-44fe-bbcd-9a8bf774026e" />
 
 *Collection of performances and highlights from Ananda Sandhya 2026.*
 
 ### Photo Gallery
 
-![Photo Gallery Screenshot](images/gallery.png)
+<img width="800" alt="AS PhotoGallery" src="https://github.com/user-attachments/assets/c920a51b-ab3f-4202-a92a-a7968f16f52d" />
+
 
 *Gallery section designed to relive memories from the event.*
 
